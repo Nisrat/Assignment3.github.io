@@ -1,0 +1,123 @@
+#home
+{
+	background-image: url(car4.jpg); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 100%; /* You must set a specified height */
+  
+  width:100%;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.client
+{
+  background-image: url(car4.jpg); 
+  background-color: #0a0707; /* Used if the image is unavailable */
+  height: 100vh; /* You must set a specified height */
+  
+  /*width:100%;
+  /*background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  	
+}
+h1{
+    color: white;
+    text-transform: uppercase;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 3%;
+  }
+
+  .container {
+    width: 50%;
+    min-height: 120px;
+    background:transparent #140606;
+    color: #fff;
+    border: 5px solid rgb(241, 42, 6);
+    margin-left: 26%;
+    margin-top: 6%;
+    text-align: center;
+   
+  }
+#daaat
+{
+	background-image: url("car4.jpg"); /* The image used */
+  background-color: #cccccc; /* Used if the image is unavailable */
+  height: 100%; /* You must set a specified height */
+  
+  width:100%;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;	
+	
+	
+}
+
+#meh
+{
+	
+		background-image: url("car4.jpg"); /* The image used */
+  background-color: #250505; /* Used if the image is unavailable */
+  height: 100%; /* You must set a specified height */
+  
+  width:100%;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;	
+	
+	
+}
+
+#lol
+{
+	
+	
+		background-image: url("car4.jpg"); /* The image used */
+  background-color: #8a0606; /* Used if the image is unavailable */
+  height: 100%; /* You must set a specified height */
+  
+  width:100%;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;	
+	
+	
+}
+
+#ads{
+			background-image: url("car4.jpg"); /* The image used */
+  background-color: #110d0d; /* Used if the image is unavailable */
+  height: 100%; /* You must set a specified height */
+  
+  width:100%;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;	
+	
+	
+	
+}
+#hagol
+{
+	
+	background-color:rgba(0,0,0,0.7);
+}
+
+#kochu
+{
+	
+			background-image: url("car4.jpg"); /* The image used */
+  background-color: #131010; /* Used if the image is unavailable */
+  height: 100%; /* You must set a specified height */
+  
+  width:100%;
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;	
+	
+	
+	
+}
